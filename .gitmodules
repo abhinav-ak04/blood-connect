@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/abhinav-ak04/blood-connect-frontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/abhinav-ak04/blood-connect-backend.git
