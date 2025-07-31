@@ -6,15 +6,6 @@ A full-stack web application built using the **MERN Stack** that connects **dono
 
 🔗 [Live Site](https://blood-connect-olive.vercel.app/)
 
-## 📌 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Author](#author)
-
----
-
 ## ✅ Features
 
 ### 👤 Donor Interface
